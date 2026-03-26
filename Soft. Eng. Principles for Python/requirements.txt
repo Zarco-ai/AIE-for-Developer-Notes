@@ -1,0 +1,13 @@
+'''This files purpose is to:
+- Specify the needed packages in your environment to make the package run
+- It is used to reproduce an exact setup
+- It usually contains every single library in your environment, pinned to a specific version number.
+'''
+
+'''3 ways to specify requirements'''
+# needed packages/versions for your package environment
+matplotlib # no reason to specify version, just leavput package name
+numpy==1.15.4 # '==' for when version is important
+pycodestyle>=2.4.0 # '>=' for minimum version required
+
+'''Running: "pip install -r requirements.txt" in your terminal will download all required versions of the libraries you need!'''

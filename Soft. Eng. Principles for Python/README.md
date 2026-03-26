@@ -1,0 +1,4 @@
+-   In this folder, you will see my notes on OOP (Object Oriented Programing), and building/developing a package for other people to use.
+"characters" is the folder that holds all of my package tools like classes and utilities for classes, while everything else is pretty self explanitory by reading the notes left inside of the files! The 'characters' and 'tests' folders, along with the files in the main working directory 'soft. eng.' are the only things you should be looking at.
+
+- In the '.z_Old code' folder and inside the 'text_analyzer' folder you will see the 'inheritance.txt', and in this file it shows you how to create a 'SuperChild'-class and a 'GrandChild'-class.
